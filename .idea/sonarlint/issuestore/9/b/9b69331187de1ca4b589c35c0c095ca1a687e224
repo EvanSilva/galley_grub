@@ -1,0 +1,17 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´î—Û8Ò½›æì1
+:
+java:S1118"Hide this public constructor.(´î—Û8Ô½›æì1
+H
+java:S1172",Remove this unused method parameter "price".(âËñp8Ø½›æì1
+T
+java:S1135"2Complete the task associated to this TODO comment.(ñ•Ôøÿÿÿÿ8Ø½›æì1
+H
+java:S1172"+Remove this unused method parameter "item".(ŞËúú8Ø½›æì1
+T
+java:S1135"2Complete the task associated to this TODO comment.(ñ•Ôøÿÿÿÿ8Ù½›æì1
+X
+java:S1854 ";Remove this useless assignment to local variable "display".(º³ Ğ8Ù½›æì1
+I
+java:S1481 ",Remove this unused "display" local variable.(º³ Ğ8Û½›æì1

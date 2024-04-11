@@ -13,3 +13,15 @@ _
 /app/src/main/java/edu/badpals/item/Product.java,c\a\cad8495c3961bc74c5f7694956e259aba9042e06
 \
 ,app/src/main/java/edu/badpals/item/Item.java,3\a\3a7ab0e1183d99a693e8c5563d0fe49cd27b573d
+_
+/app/src/main/java/edu/badpals/extras/Extra.java,3\b\3b0f1f0027543740bedff45f50e87d867da093ec
+]
+-app/src/main/java/edu/badpals/items/Item.java,8\3\832c129e14eae94dead46229fb614821235d623d
+`
+0app/src/main/java/edu/badpals/items/Product.java,a\8\a8701a19d8cca247e444542914cc0dcfe3de9349
+_
+/app/src/main/java/edu/badpals/items/Prices.java,6\a\6a80594e8d136601967290adbe21dd2850aedee9
+e
+5app/src/main/java/edu/badpals/items/RetailPrices.java,e\c\ecbcba60ea6c8a3deabf83752fa3c7c9cb2375c5
+d
+4app/src/main/java/edu/badpals/items/RetailPrice.java,9\b\9b69331187de1ca4b589c35c0c095ca1a687e224

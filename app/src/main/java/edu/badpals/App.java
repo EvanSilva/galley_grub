@@ -38,7 +38,7 @@ public class App {
          * del menu proporcionada.
          */
 
-        RetailPrice.init_prices();
+        RetailPrice.initPrices();
 
         // formatea la salida de cada entrada del diccionario como prefieras
         System.out.print("\n\t --- PRICES ---  \n");

@@ -1,4 +1,4 @@
-package edu.badpals.item;
+package edu.badpals.items;
 
 public class Item implements Product{
 
