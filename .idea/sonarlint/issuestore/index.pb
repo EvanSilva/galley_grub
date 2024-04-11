@@ -11,3 +11,5 @@ V
 &app/src/main/java/edu/badpals/App.java,a\f\aff8e33319f1e29aaf0061c17a2510102a2c1247
 _
 /app/src/main/java/edu/badpals/item/Product.java,c\a\cad8495c3961bc74c5f7694956e259aba9042e06
+\
+,app/src/main/java/edu/badpals/item/Item.java,3\a\3a7ab0e1183d99a693e8c5563d0fe49cd27b573d
