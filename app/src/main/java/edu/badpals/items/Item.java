@@ -34,6 +34,12 @@ public class Item implements Product{
 
     @Override
     public Boolean isRegular() {
+        return true;
+        //todo
+    }
 
+    @Override
+    public String toString() {
+        return name() + "...." + price();
     }
 }

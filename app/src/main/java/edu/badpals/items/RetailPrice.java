@@ -19,16 +19,22 @@ public class RetailPrice {
     }
 
     public static Double getPrice(String price){
-        return pass;
-        //todo
+        return prices.get(price);
+
     }
 
     public static boolean contains(String item){
-        return pass;
-        //todo
+         return prices.containsKey(item);
+
     }
 
     public static void display(){
         StringBuilder display = new StringBuilder();
+         for (Map.Entry<String, Double> price : prices.entrySet()){
+             display.append("\t" + price + "\n");
+        }
+         display.toString();
+        System.out.println(display);
+
     }
 }
