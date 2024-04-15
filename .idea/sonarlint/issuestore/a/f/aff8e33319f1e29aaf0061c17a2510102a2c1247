@@ -1,6 +1,6 @@
 
-L	java:S106/"+Replace this use of System.out by a logger.( ״פתÿÿÿÿ8וׂ„מ1
-G	java:S106A"+Replace this use of System.out by a logger.(×עסא8וׂ„מ1
+L	java:S1061"+Replace this use of System.out by a logger.( ״פתÿÿÿÿ8וׂ„מ1
+G	java:S106C"+Replace this use of System.out by a logger.(×עסא8וׂ„מ1
 T
-java:S1135Q"2Complete the task associated to this TODO comment.(ם₪׃üÿÿÿÿ8כׂ„מ1
-M	java:S106״"+Replace this use of System.out by a logger.(×®ם‏ÿÿÿÿ8מׂ„מ1
+java:S1135S"2Complete the task associated to this TODO comment.(ם₪׃üÿÿÿÿ8כׂ„מ1
+M	java:S106Ú"+Replace this use of System.out by a logger.(×®ם‏ÿÿÿÿ8מׂ„מ1

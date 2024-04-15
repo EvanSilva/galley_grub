@@ -1,0 +1,18 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã©ëþúÿÿÿÿ8ƒÁŒ…î1
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷ÔˆÂ8½Ñƒ…î1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”éìÞýÿÿÿÿ8¾Ñƒ…î1
+£
+java:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áÒ»¥úÿÿÿÿ8¾Ñƒ…î1
+£
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãëš²ÿÿÿÿÿ8¾Ñƒ…î1
+ž
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áýÁ©8¾Ñƒ…î1
+>
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8ÁÑƒ…î1
+K
+java:S1068
+")Remove this unused "total" private field.(¶Ç’×øÿÿÿÿ8ÄÑƒ…î1

@@ -19,3 +19,7 @@ Z
 *app/src/test/java/edu/badpals/AppTest.java,d\5\d56a5025fba14e98f48f3f85ed95336079b9d4e1
 `
 0app/src/main/java/edu/badpals/order/Comanda.java,0\8\088853ac48a257ffbf6970da6ca81a5c7a814f48
+^
+.app/src/main/java/edu/badpals/order/Order.java,5\e\5ef324adc01cdd6b2cbdb8d0f9102de8d7c2eccb
+d
+4app/src/main/java/edu/badpals/items/ItemFactory.java,a\1\a1c58dd8f57d14927a3ca907f9b25906144be901

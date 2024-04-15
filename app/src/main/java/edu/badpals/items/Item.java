@@ -34,8 +34,7 @@ public class Item implements Product{
 
     @Override
     public Boolean isRegular() {
-        return true;
-        //todo
+        return this.extra().isBlank();
     }
 
     @Override

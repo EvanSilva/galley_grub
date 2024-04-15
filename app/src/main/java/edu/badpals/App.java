@@ -3,6 +3,8 @@ package edu.badpals;
 import edu.badpals.items.Item;
 import edu.badpals.items.Product;
 import edu.badpals.items.RetailPrice;
+import edu.badpals.order.Comanda;
+import edu.badpals.order.Order;
 
 /**
  *
