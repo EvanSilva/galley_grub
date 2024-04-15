@@ -1,18 +1,18 @@
 
 {
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã©ëþúÿÿÿÿ8ƒÁŒ…î1
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã©ëþúÿÿÿÿ8ì±ß†î1
 ž
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷ÔˆÂ8½Ñƒ…î1
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”éìÞýÿÿÿÿ8¾Ñƒ…î1
-£
-java:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áÒ»¥úÿÿÿÿ8¾Ñƒ…î1
-£
-java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ãëš²ÿÿÿÿÿ8¾Ñƒ…î1
-ž
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áýÁ©8¾Ñƒ…î1
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áýÁ©8ö±ß†î1
 >
-java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8ÁÑƒ…î1
-K
-java:S1068
-")Remove this unused "total" private field.(¶Ç’×øÿÿÿÿ8ÄÑƒ…î1
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8ø±ß†î1
+R
+java:S2209"5Change this instance-reference to a static reference.(è¾­‚8þ±ß†î1
+H
+java:S2440"+Remove this instantiation of "ItemFactory".(è¾­‚8þ±ß†î1
+W
+java:S2209"5Change this instance-reference to a static reference.(Þ÷ÁÆúÿÿÿÿ8ÿ±ß†î1
+M
+java:S2440"+Remove this instantiation of "ItemFactory".(Þ÷ÁÆúÿÿÿÿ8ÿ±ß†î1
+L	java:S106<"+Replace this use of System.out by a logger.(©ÓËÙÿÿÿÿÿ8‚²ß†î1
+L
+java:S1128	"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8‚²ß†î1

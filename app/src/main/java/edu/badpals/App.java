@@ -112,6 +112,7 @@ public class App {
 
         order.display();
 
+
          /**
          * Squidward Tentacles genera el recibo,
          * la app calcula el importe total de la comanda

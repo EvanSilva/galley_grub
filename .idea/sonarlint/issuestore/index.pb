@@ -23,3 +23,5 @@ Z
 .app/src/main/java/edu/badpals/order/Order.java,5\e\5ef324adc01cdd6b2cbdb8d0f9102de8d7c2eccb
 d
 4app/src/main/java/edu/badpals/items/ItemFactory.java,a\1\a1c58dd8f57d14927a3ca907f9b25906144be901
+a
+1app/src/main/java/edu/badpals/receipt/Ticket.java,7\c\7cb4c40d694cbd5c1a71b8a41332277ea099d306
