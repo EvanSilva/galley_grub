@@ -25,3 +25,7 @@ d
 4app/src/main/java/edu/badpals/items/ItemFactory.java,a\1\a1c58dd8f57d14927a3ca907f9b25906144be901
 a
 1app/src/main/java/edu/badpals/receipt/Ticket.java,7\c\7cb4c40d694cbd5c1a71b8a41332277ea099d306
+b
+2app/src/main/java/edu/badpals/receipt/Receipt.java,4\9\492562e59a9d843746be7c807b5d562a263303b7
+a
+1app/src/main/java/edu/badpals/extras/Regular.java,d\4\d49664a713cbf118e06978e6960769504cdaab79

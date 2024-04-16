@@ -54,7 +54,7 @@ public class Order implements Comanda{
         StringBuilder display = new StringBuilder();
         display.append("\n\t --- ORDER ---  \n");
         for ( Item order : items){
-            display.append("\t" + order+ "$"+ "\n");
+            display.append("\n\t" + order);
         }
         display.toString();
         System.out.println(display);

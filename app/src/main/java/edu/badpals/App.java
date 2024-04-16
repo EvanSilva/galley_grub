@@ -1,10 +1,14 @@
 package edu.badpals;
 
+import edu.badpals.extras.Extra;
+import edu.badpals.extras.Regular;
 import edu.badpals.items.Item;
 import edu.badpals.items.Product;
 import edu.badpals.items.RetailPrice;
 import edu.badpals.order.Comanda;
 import edu.badpals.order.Order;
+import edu.badpals.receipt.Receipt;
+import edu.badpals.receipt.Ticket;
 
 /**
  *
@@ -118,7 +122,7 @@ public class App {
          * la app calcula el importe total de la comanda
          * y lo muestra en pantalla.
          */
-        /**
+
          Ticket receipt = new Receipt(order);
          receipt.total();
          receipt.print();
@@ -137,7 +141,7 @@ public class App {
          * con el cargo extra
          * pues eso lo haremos con otro componente.
          */
-        /**
+
          System.out.print("\n\t --- GALLEY GRUB ---  \n");
 
          patty = new Item("Krabby Patty", 1.25, "cheese");
@@ -156,7 +160,7 @@ public class App {
          * y realiza una comanda cargada
          * de extras.
          */
-        /**
+
          order = new Order();
 
          order.addItem("Krabby Patty", 1.25, "cheese");
@@ -188,7 +192,7 @@ public class App {
          *
          * El precio total de la comanda se guarda en Order.
          */
-        /**
+
          Extra regular = new Regular(); // suma el precio base
          Extra cheese = new CheeseExtra(); // suma el precio del extra cheese
          Extra sauce = new SauceExtra(); // suma el precio de sauce

@@ -1,3 +1,7 @@
 
-^
-java:S2094"BRemove this empty class, write its code or make it an "interface".(¨ªÅ'8Åöéåì1
+U
+java:S5993"9Change the visibility of this constructor to "protected".(¥Ã¨C8õÑ€¾î1
+I
+java:S1172",Remove this unused method parameter "extra".(ØøéÙ8ü£¯¾î1
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8øÑ€¾î1

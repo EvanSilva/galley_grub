@@ -12,7 +12,7 @@ public class Item implements Product{
     }
 
     public Item (String name, Double price, String extra){
-        this.name = name;
+        this.name = name + " w/ " + extra;
         this.price = price;
         this.extra = extra;
     }
@@ -39,6 +39,10 @@ public class Item implements Product{
 
     @Override
     public String toString() {
-        return name() + "...." + price() + "$";
+        if (extra().isBlank()){
+            return name() + "...." + price() + "$";
+        } else {
+            return name() + "...." + price() + "$" + " + " + String.format("%.2f", RetailPrice.getPrice(this.extra())) + "$";
+        }
     }
 }

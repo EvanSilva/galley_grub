@@ -1,6 +1,21 @@
 
-L	java:S1061"+Replace this use of System.out by a logger.( Øôúÿÿÿÿ8åŒÒ„î1
-G	java:S106C"+Replace this use of System.out by a logger.(ªòñà8åŒÒ„î1
+m
+java:S1192K"KDefine a constant instead of duplicating this literal "Coral Bits" 5 times.(’®à–ıÿÿÿÿ8ÕÕÄ½î1
+o
+java:S1192Q"MDefine a constant instead of duplicating this literal "Seafoam Soda" 4 times.(ş‡­Ÿÿÿÿÿÿ8ÕÕÄ½î1
+i
+java:S1192›"FDefine a constant instead of duplicating this literal "large" 3 times.(æÂÊğÿÿÿÿÿ8°¥´¿î1
+i
+java:S1192O"LDefine a constant instead of duplicating this literal "Golden Loaf" 4 times.(©İûü8ÖÕÄ½î1
+j
+java:S1192I"MDefine a constant instead of duplicating this literal "Krabby Patty" 4 times.(ïØ¡Æ8ÖÕÄ½î1
+d
+java:S1192—"FDefine a constant instead of duplicating this literal "sauce" 4 times.(ëşÁ8°¥´¿î1
+m
+java:S1192M"KDefine a constant instead of duplicating this literal "Kelp Rings" 4 times.(“ÑÆÿüÿÿÿÿ8ÖÕÄ½î1
+L	java:S1065"+Replace this use of System.out by a logger.( Øôúÿÿÿÿ8ÇĞİ¼î1
+G	java:S106G"+Replace this use of System.out by a logger.(ªòñà8ÈĞİ¼î1
 T
-java:S1135S"2Complete the task associated to this TODO comment.(í¤Óüÿÿÿÿ8ëŒÒ„î1
-M	java:S106Û"+Replace this use of System.out by a logger.(ªœ®íşÿÿÿÿ8îŒÒ„î1
+java:S1135W"2Complete the task associated to this TODO comment.(í¤Óüÿÿÿÿ8ÌĞİ¼î1
+H	java:S106‘"+Replace this use of System.out by a logger.(ªòñà8ÏĞİ¼î1
+M	java:S106ß"+Replace this use of System.out by a logger.(ªœ®íşÿÿÿÿ8íÕÄ½î1
