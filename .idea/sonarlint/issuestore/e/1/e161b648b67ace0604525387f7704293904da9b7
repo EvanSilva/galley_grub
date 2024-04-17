@@ -1,0 +1,11 @@
+
+—
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ş˜ò
+2
+java:S1116
+"Remove this empty statement.(ş˜ò
+X
+java:S3252"BUse static access with "edu.badpals.extras.Extra" for "nextExtra".(¶âô›
+K
+java:S2209"5Change this instance-reference to a static reference.(¶âô›

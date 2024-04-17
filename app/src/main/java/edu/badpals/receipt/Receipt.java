@@ -44,7 +44,7 @@ public class Receipt implements Ticket{
     @Override
     public void print() {
         this.order.display();
-        System.out.println("\t" + "Total -------->" + this.total + "$") ;
+        System.out.println("\t" + "Total -------->" + this.total() + "$") ;
 
     }
 

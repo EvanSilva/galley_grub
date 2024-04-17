@@ -42,7 +42,7 @@ public class Item implements Product{
         if (extra().isBlank()){
             return name() + "...." + price() + "$";
         } else {
-            return name() + "...." + price() + "$" + " + " + String.format("%.2f", RetailPrice.getPrice(this.extra())) + "$";
+            return name() + "...." + price() + "$" + " + " + RetailPrice.getPrice(this.extra()) + "$";
         }
     }
 }

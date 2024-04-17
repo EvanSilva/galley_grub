@@ -194,7 +194,7 @@ public class App {
          */
 
          Extra regular = new Regular(); // suma el precio base
-         Extra cheese = new CheeseExtra(); // suma el precio del extra cheese
+/**         Extra cheese = new CheeseExtra(); // suma el precio del extra cheese
          Extra sauce = new SauceExtra(); // suma el precio de sauce
          Extra size = new SizeLargeExtra(); // suma el precio del tamanho Large
 
@@ -207,7 +207,7 @@ public class App {
          * la app calcula el importe total de la comanda
          * y lo muestra en pantalla.
          */
-        /**
+
          System.out.print("\n\t --- PRINTIG RECEIPT BIPBIPBIP ---  \n");
 
          Ticket receiptExtra = new Receipt(order);
@@ -215,7 +215,6 @@ public class App {
 
          receiptExtra.total();
          receiptExtra.print();
-         **/
 
 
     }

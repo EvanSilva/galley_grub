@@ -1,7 +1,9 @@
 
 U
-java:S5993"9Change the visibility of this constructor to "protected".(¥Ã¨C8õÑ€¾î1
-I
-java:S1172",Remove this unused method parameter "extra".(ØøéÙ8ü£¯¾î1
+java:S5993"9Change the visibility of this constructor to "protected".(¥Ã¨C8ğ›”Úî1
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(ô°ŞÔûÿÿÿÿ8ö›”Úî1
+W
+java:S2209"5Change this instance-reference to a static reference.(ô°ŞÔûÿÿÿÿ8ö›”Úî1
 >
-java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8øÑ€¾î1
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8Ü•Úî1

@@ -29,3 +29,11 @@ b
 2app/src/main/java/edu/badpals/receipt/Receipt.java,4\9\492562e59a9d843746be7c807b5d562a263303b7
 a
 1app/src/main/java/edu/badpals/extras/Regular.java,d\4\d49664a713cbf118e06978e6960769504cdaab79
+e
+5app/src/main/java/edu/badpals/extras/CheeseExtra.java,7\1\717d1905f49c302416353b14d718e6f62cc2db5d
+d
+4app/src/main/java/edu/badpals/extras/SauceExtra.java,e\1\e161b648b67ace0604525387f7704293904da9b7
+h
+8app/src/main/java/edu/badpals/extras/SizeLargeExtra.java,b\3\b3425728a992020677659e22364addd4a7382774
+e
+5app/src/test/java/edu/badpals/extras/RegularTest.java,d\2\d2044a008db66d81fccbe69ad37bf9eb8d0bf8a6

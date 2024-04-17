@@ -1,19 +1,20 @@
 package edu.badpals.extras;
 
 import edu.badpals.items.Item;
+import edu.badpals.items.RetailPrice;
 import edu.badpals.order.Comanda;
 
 import java.util.Optional;
 
-public class Regular extends Extra{
+public class CheeseExtra extends Extra{
 
-    public Regular(){};
+    public CheeseExtra(){};
 
     @Override
     public void sumExtras(Comanda order) {
 
         Optional<Double> sumRegularPrices = order.itemList().stream()
-                .map(Item::price)
+                .map(item -> RetailPrice.getPrice(Extra.CHEESE))
                 .reduce(Double::sum);
 
         if (sumRegularPrices.isPresent()) {
