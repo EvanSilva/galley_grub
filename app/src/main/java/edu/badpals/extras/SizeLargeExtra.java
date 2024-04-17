@@ -12,12 +12,13 @@ public class SizeLargeExtra extends Extra{
     @Override
     public void sumExtras(Comanda order) {
 
-        Optional<Double> sumRegularPrices = order.itemList().stream()
+        Optional<Double> SizeCharge = order.itemList().stream()
+                .filter(item -> item.extra().equalsIgnoreCase("size_large"))
                 .map(item -> RetailPrice.getPrice(Extra.SIZE_LARGE))
                 .reduce(Double::sum);
 
-        if (sumRegularPrices.isPresent()) {
-            order.updateTotal(sumRegularPrices.get());
+        if (SizeCharge.isPresent()) {
+            order.updateTotal(SizeCharge.get());
         }
 
         this.nextExtra.ifPresent(chain -> chain.sumExtras(order));

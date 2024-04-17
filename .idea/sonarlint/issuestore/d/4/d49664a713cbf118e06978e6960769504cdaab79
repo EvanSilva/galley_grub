@@ -1,11 +1,11 @@
 
-£
+É
 java:S1186
-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒœÖşÿÿÿÿ8¯ÑòÙî1
->
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ŒœÖşÿÿÿÿ8¨Î¿çî1J$c55c18ec-d282-4dae-9c14-ee641583af84
+d
 java:S1116
-"Remove this empty statement.(ŒœÖşÿÿÿÿ8°ÑòÙî1
-_
-java:S3252"BUse static access with "edu.badpals.extras.Extra" for "nextExtra".(¶âô›8µÑòÙî1
-R
-java:S2209"5Change this instance-reference to a static reference.(¶âô›8¶ÑòÙî1
+"Remove this empty statement.(ŒœÖşÿÿÿÿ8©Î¿çî1J$bd78e9be-2595-4cee-9066-82268fe4cd44
+…
+java:S3252"BUse static access with "edu.badpals.extras.Extra" for "nextExtra".(¶âô›8¬Î¿çî1J$cea279e5-af21-4a56-803e-1ac3535ce92b
+x
+java:S2209"5Change this instance-reference to a static reference.(¶âô›8¬Î¿çî1J$f4619d8a-56d8-4671-9213-59ea7f12eab5

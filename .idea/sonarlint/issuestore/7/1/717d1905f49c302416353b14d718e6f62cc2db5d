@@ -1,11 +1,11 @@
 
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Äâ¡âùÿÿÿÿ8—Ş¦Úî1
->
-java:S1116"Remove this empty statement.(Äâ¡âùÿÿÿÿ8™Ş¦Úî1
-_
-java:S3252"BUse static access with "edu.badpals.extras.Extra" for "nextExtra".(¶âô›8ŸŞ¦Úî1
-R
-java:S2209"5Change this instance-reference to a static reference.(¶âô›8ŸŞ¦Úî1
-U
-java:S1128"3Remove this unused import 'edu.badpals.items.Item'.(‚¹à×ıÿÿÿÿ8ÊÒ§Úî1
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Äâ¡âùÿÿÿÿ8Â©èçî1J$1a98ea21-29fa-4eef-91d9-2bc2a4ab9b48
+d
+java:S1116"Remove this empty statement.(Äâ¡âùÿÿÿÿ8Ä©èçî1J$027c47fd-bf56-46b2-99ef-9677537bb7e1
+…
+java:S3252"BUse static access with "edu.badpals.extras.Extra" for "nextExtra".(¶âô›8Æ©èçî1J$bf851e9b-5771-42a2-b04a-56fb5cc87933
+x
+java:S2209"5Change this instance-reference to a static reference.(¶âô›8Ç©èçî1J$9ffc7bbf-e168-4e1f-a23e-e81bede0fb6c
+{
+java:S1128"3Remove this unused import 'edu.badpals.items.Item'.(‚¹à×ıÿÿÿÿ8Ç©èçî1J$3a7fa177-5510-4abf-b7c3-55f1b9e3dbcd

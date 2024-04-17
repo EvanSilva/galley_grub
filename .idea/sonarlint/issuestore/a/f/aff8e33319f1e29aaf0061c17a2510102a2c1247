@@ -1,22 +1,22 @@
 
-m
-java:S1192K"KDefine a constant instead of duplicating this literal "Coral Bits" 5 times.(’®à–ıÿÿÿÿ8œ³Úî1
-o
-java:S1192Q"MDefine a constant instead of duplicating this literal "Seafoam Soda" 4 times.(ş‡­Ÿÿÿÿÿÿ8³Úî1
-i
-java:S1192›"FDefine a constant instead of duplicating this literal "large" 3 times.(æÂÊğÿÿÿÿÿ8³Úî1
-i
-java:S1192O"LDefine a constant instead of duplicating this literal "Golden Loaf" 4 times.(©İûü8³Úî1
-j
-java:S1192I"MDefine a constant instead of duplicating this literal "Krabby Patty" 4 times.(ïØ¡Æ8³Úî1
-d
-java:S1192—"FDefine a constant instead of duplicating this literal "sauce" 4 times.(ëşÁ8³Úî1
-m
-java:S1192M"KDefine a constant instead of duplicating this literal "Kelp Rings" 4 times.(“ÑÆÿüÿÿÿÿ8³Úî1
-L	java:S1065"+Replace this use of System.out by a logger.( Øôúÿÿÿÿ8½³Úî1
-G	java:S106G"+Replace this use of System.out by a logger.(ªòñà8¾³Úî1
-T
-java:S1135W"2Complete the task associated to this TODO comment.(í¤Óüÿÿÿÿ8Â³Úî1
-H	java:S106‘"+Replace this use of System.out by a logger.(ªòñà8Æ³Úî1
-M	java:S106Ó"+Replace this use of System.out by a logger.(È‹›øÿÿÿÿ8Ì³Úî1
-M	java:S106Ş"+Replace this use of System.out by a logger.(ªœ®íşÿÿÿÿ8Î³Úî1
+“
+java:S1192K"KDefine a constant instead of duplicating this literal "Coral Bits" 5 times.(’®à–ıÿÿÿÿ8Ûù±æî1J$a22ba4f3-5340-4491-9578-bd203f9982d6
+•
+java:S1192Q"MDefine a constant instead of duplicating this literal "Seafoam Soda" 4 times.(ş‡­Ÿÿÿÿÿÿ8Ûù±æî1J$794d623a-a9a8-454c-a60a-2a3ab923bc2f
+
+java:S1192›"FDefine a constant instead of duplicating this literal "large" 3 times.(æÂÊğÿÿÿÿÿ8Ûù±æî1J$8b3695bd-6ccb-43ac-833a-56b3dd02765a
+
+java:S1192O"LDefine a constant instead of duplicating this literal "Golden Loaf" 4 times.(©İûü8Üù±æî1J$1d760b1f-6075-4022-9ca2-642b2d13bafe
+
+java:S1192I"MDefine a constant instead of duplicating this literal "Krabby Patty" 4 times.(ïØ¡Æ8Üù±æî1J$689a4172-a66e-430b-ad77-bfe68646d3d5
+Š
+java:S1192—"FDefine a constant instead of duplicating this literal "sauce" 4 times.(ëşÁ8Üù±æî1J$ed3d070f-a207-4d1d-b358-2f6817daacb7
+“
+java:S1192M"KDefine a constant instead of duplicating this literal "Kelp Rings" 4 times.(“ÑÆÿüÿÿÿÿ8Üù±æî1J$784428b9-3d76-424d-b7fa-1c715c522f9e
+r	java:S1065"+Replace this use of System.out by a logger.( Øôúÿÿÿÿ8ãù±æî1J$b9424349-adf0-4425-a4a0-4affc68f805b
+m	java:S106G"+Replace this use of System.out by a logger.(ªòñà8äù±æî1J$e74068f2-01ae-4775-b7ac-e6a8c2d8ae0b
+z
+java:S1135W"2Complete the task associated to this TODO comment.(í¤Óüÿÿÿÿ8æù±æî1J$b025ff38-61bd-4302-8b81-386e856d85b2
+n	java:S106‘"+Replace this use of System.out by a logger.(ªòñà8çù±æî1J$c0c0a082-0283-4b30-8f26-eeb08fa82183
+s	java:S106Ò"+Replace this use of System.out by a logger.(È‹›øÿÿÿÿ8Š½¹æî1J$4d69aab7-b5c2-4ca4-b60c-0d7b26c487a3
+s	java:S106İ"+Replace this use of System.out by a logger.(ªœ®íşÿÿÿÿ8‹½¹æî1J$890a7b1c-ab98-430e-9731-8bd39df3deec

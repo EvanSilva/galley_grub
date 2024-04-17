@@ -1,7 +1,6 @@
 package edu.badpals;
 
-import edu.badpals.extras.Extra;
-import edu.badpals.extras.Regular;
+import edu.badpals.extras.*;
 import edu.badpals.items.Item;
 import edu.badpals.items.Product;
 import edu.badpals.items.RetailPrice;
@@ -9,6 +8,7 @@ import edu.badpals.order.Comanda;
 import edu.badpals.order.Order;
 import edu.badpals.receipt.Receipt;
 import edu.badpals.receipt.Ticket;
+
 
 /**
  *
@@ -174,7 +174,6 @@ public class App {
          // el precio de los extras en la salida por consola.
          order.display();
 
-
          /**
          * Define el importe a cargar por cada extra.
          *
@@ -194,7 +193,7 @@ public class App {
          */
 
          Extra regular = new Regular(); // suma el precio base
-/**         Extra cheese = new CheeseExtra(); // suma el precio del extra cheese
+         Extra cheese = new CheeseExtra(); // suma el precio del extra cheese
          Extra sauce = new SauceExtra(); // suma el precio de sauce
          Extra size = new SizeLargeExtra(); // suma el precio del tamanho Large
 

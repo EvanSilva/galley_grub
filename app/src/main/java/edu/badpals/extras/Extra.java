@@ -11,7 +11,7 @@ public abstract class Extra {
     static final String SIZE_LARGE = "large";
 
     static String extraProduct = "";
-    static Optional<Extra> nextExtra ;
+    Optional<Extra> nextExtra ;
 
     public Extra () {
     }

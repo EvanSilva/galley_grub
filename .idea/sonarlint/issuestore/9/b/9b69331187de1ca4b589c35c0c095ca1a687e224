@@ -1,8 +1,8 @@
 
-
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´î—Û8‘„î1
-:
-java:S1118"Hide this public constructor.(´î—Û8ƒ‘„î1
-L	java:S106%"+Replace this use of System.out by a logger.(©ÓËÙÿÿÿÿÿ8ˆ‘„î1
-Y
-java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8¬×©„î1
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(´î—Û8‘„î1J$1d46cdd1-ee8f-4dbe-befa-37cf00726d27
+`
+java:S1118"Hide this public constructor.(´î—Û8ƒ‘„î1J$2899fdbf-d25f-4735-bfea-ba056bdecae2
+r	java:S106%"+Replace this use of System.out by a logger.(©ÓËÙÿÿÿÿÿ8ˆ‘„î1J$a4206537-0da1-449d-b594-bb5406b1757b
+
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8¬×©„î1J$a13bdd82-cf54-4552-9fb4-3f567053a6e6

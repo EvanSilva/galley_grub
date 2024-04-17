@@ -15,8 +15,6 @@ _
 0app/src/main/java/edu/badpals/items/Product.java,a\8\a8701a19d8cca247e444542914cc0dcfe3de9349
 d
 4app/src/main/java/edu/badpals/items/RetailPrice.java,9\b\9b69331187de1ca4b589c35c0c095ca1a687e224
-Z
-*app/src/test/java/edu/badpals/AppTest.java,d\5\d56a5025fba14e98f48f3f85ed95336079b9d4e1
 `
 0app/src/main/java/edu/badpals/order/Comanda.java,0\8\088853ac48a257ffbf6970da6ca81a5c7a814f48
 ^

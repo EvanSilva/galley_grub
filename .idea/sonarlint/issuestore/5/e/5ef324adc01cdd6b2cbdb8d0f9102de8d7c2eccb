@@ -1,18 +1,18 @@
 
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã©ëþúÿÿÿÿ8ì±ß†î1
-ž
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áýÁ©8ö±ß†î1
->
-java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8ø±ß†î1
-R
-java:S2209"5Change this instance-reference to a static reference.(è¾­‚8å¯¯Úî1
-H
-java:S2440"+Remove this instantiation of "ItemFactory".(è¾­‚8æ¯¯Úî1
-W
-java:S2209"5Change this instance-reference to a static reference.(Þ÷ÁÆúÿÿÿÿ8é¯¯Úî1
-M
-java:S2440"+Remove this instantiation of "ItemFactory".(Þ÷ÁÆúÿÿÿÿ8ê¯¯Úî1
-L	java:S106<"+Replace this use of System.out by a logger.(©ÓËÙÿÿÿÿÿ8‚²ß†î1
-L
-java:S1128	"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8ï¯¯Úî1
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã©ëþúÿÿÿÿ8ì±ß†î1J$235f36b6-5910-4444-a06f-4ac9e2f53bd0
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(áýÁ©8ö±ß†î1J$7282ad56-4ba6-4e7f-8a4d-a51fa9a3958b
+d
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ8ø±ß†î1J$baef9c1b-8f23-4164-b302-a630b552a92f
+x
+java:S2209"5Change this instance-reference to a static reference.(è¾­‚8å¯¯Úî1J$e6496045-11b1-4c0f-85e9-7e2c9d11aafd
+n
+java:S2440"+Remove this instantiation of "ItemFactory".(è¾­‚8æ¯¯Úî1J$9a2b1871-b1f3-48cf-bea7-fc7269f64309
+}
+java:S2209"5Change this instance-reference to a static reference.(Þ÷ÁÆúÿÿÿÿ8é¯¯Úî1J$13451282-1fe7-4c04-b651-4bd01c4abf58
+s
+java:S2440"+Remove this instantiation of "ItemFactory".(Þ÷ÁÆúÿÿÿÿ8ê¯¯Úî1J$73ed75ee-34b1-4d4b-8638-a37feba778bb
+r	java:S106<"+Replace this use of System.out by a logger.(©ÓËÙÿÿÿÿÿ8‚²ß†î1J$b71177d1-884c-4cfe-a879-eb8db8d4b155
+r
+java:S1128	"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8ï¯¯Úî1J$baa74f90-3b22-472e-a59a-782dfe292ded

@@ -5,9 +5,9 @@ import edu.badpals.order.Comanda;
 
 import java.util.Optional;
 
-public class Regular extends Extra{
+public class Regular extends Extra {
 
-    public Regular(){};
+    public Regular() {};
 
     @Override
     public void sumExtras(Comanda order) {
@@ -22,5 +22,4 @@ public class Regular extends Extra{
 
         this.nextExtra.ifPresent(chain -> chain.sumExtras(order));
     }
-
 }

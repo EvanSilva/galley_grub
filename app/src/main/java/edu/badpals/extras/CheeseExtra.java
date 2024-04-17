@@ -13,12 +13,13 @@ public class CheeseExtra extends Extra{
     @Override
     public void sumExtras(Comanda order) {
 
-        Optional<Double> sumRegularPrices = order.itemList().stream()
+        Optional<Double> cheeseCharge  = order.itemList().stream()
+                .filter(item -> item.extra().equalsIgnoreCase("cheese"))
                 .map(item -> RetailPrice.getPrice(Extra.CHEESE))
                 .reduce(Double::sum);
 
-        if (sumRegularPrices.isPresent()) {
-            order.updateTotal(sumRegularPrices.get());
+        if (cheeseCharge.isPresent()) {
+            order.updateTotal(cheeseCharge.get());
         }
 
         this.nextExtra.ifPresent(chain -> chain.sumExtras(order));

@@ -3,13 +3,11 @@ package edu.badpals.receipt;
 import edu.badpals.extras.Extra;
 import edu.badpals.order.Comanda;
 
-import java.util.Map;
-
 public class Receipt implements Ticket{
 
     private Double total = 0.0;
     private final Comanda order;
-    private Extra firstExrta = null;
+    private Extra firstExtra = null;
 
 
     public Receipt(Comanda order) {
@@ -24,21 +22,28 @@ public class Receipt implements Ticket{
 
     @Override
     public void setChain(Extra extra) {
-        this.firstExrta = extra;
+        this.firstExtra = extra;
     }
 
     @Override
     public Extra getChain() {
-        return this.firstExrta;
+        return this.firstExtra;
     }
 
     @Override
     public Double total() {
+        if (this.total == 0.0) {
+            this.sumExtrasCharge();
+            this.total = this.getOrder().getTotal();
+        }
         return this.total;
     }
-
+1
     @Override
-    public void sumExtrasCharge() {
+    void sumExtrasCharge() {
+        if (this.firstExtra != null) {
+            this.firstExtra.sumExtras(this.order);
+        }
     }
 
     @Override
